@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @54black98
 - 👀 I’m interested in playing basketball
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on JD
+- 💞️ I’m looking to collaborate on code
 - 📫 How to reach me ...
 
 <!---
